@@ -1,0 +1,2 @@
+module ObjectExrcise1 {
+}
